@@ -1,7 +1,7 @@
 # Spark
 Putting all the basics together for the exam
 
-## Spark Arquitecture
+## Spark Architecture
 
 Let's imagine that a teacher hands out candy bags to her students:  
 ![Candy Bag](https://images.handyimprints.com.au/product/100g-m-ms-cello-bag.jpg)
