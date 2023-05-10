@@ -18,4 +18,7 @@ Let's also imagine that each table in that classroom has space for 2 students:
 - **Pile of Candy Bags**: Represents the **Dataset**.
 - **Candy Bag**: Represents the **Partition**.
 - **Candy Piece**: Represents a **Record**.
+  
+Each student gets a candy bag to filter out the brown candies. Some of the students finish their work before the others and they will receive the remaining candy bags until all the bags are done.
 
+One of the students, though, gets stuck and cannot finish its work. So the teacher tells another student to help them.
